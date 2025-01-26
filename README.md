@@ -12,3 +12,14 @@ This course is designed to introduce beginners to the fundamental concepts of da
 5. **Software Integration:** Guides learners on how to use popular data analysis tools, potentially including Excel, Python, or other platforms.
 6. **User-Friendly Format:** Tailored for those new to statistics or looking to enhance their analytical skills with practical knowledge.
 
+# Tools
+`Excel`
+
+## Data Sources 
+
+## Data Cleaning/Preparation 
+use of `vlookup`
+use of `statistic`
+
+## Data Analysis 
+
