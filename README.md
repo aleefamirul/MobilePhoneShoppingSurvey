@@ -18,8 +18,35 @@ This course is designed to introduce beginners to the fundamental concepts of da
 ## Data Sources 
 
 ## Data Cleaning/Preparation 
-use of `vlookup`
-use of `statistic`
+
+1. Understanding Raw Data
+- Overview of raw datasets and common issues encountered, such as:
+    - Missing values.
+    - Duplicates.
+    - Inconsistent formats.
+- Exploring the importance of clean data for accurate analysis.
+2. Identifying and Handling Missing Data
+- Recognizing missing data patterns in datasets.
+- Strategies for handling missing values, including:
+    - Removing rows or columns with excessive missing data.
+    - Imputation techniques (e.g., replacing with mean, median, or mode).
+3. Detecting and Removing Duplicates
+- Learning to identify duplicate rows or entries in a dataset.
+Methods to clean duplicates effectively while preserving unique records.
+4. Standardizing Data Formats
+- Ensuring consistency in:
+Date and time formats.
+Text and categorical variables (e.g., case sensitivity, trimming extra spaces).
+Numerical precision and units of measurement.
+5. Dealing with Outliers
+- Understanding the impact of outliers on statistical analysis.
+Techniques to identify outliers using statistical methods or visualizations.
+Approaches to manage outliers (e.g., capping, transformation, or exclusion).
+6. Data Type Conversion
+- Converting data into appropriate formats, such as:
+Strings to dates.
+Categorical variables to numerical codes.
+Resolving errors caused by improper data types.
 
 ## Data Analysis 
 
