@@ -3,6 +3,7 @@ UDEMY - Data Analysis &amp; Statisstic: Practical Course for Beginners
 
 ## Overview 
 This course is designed to introduce beginners to the fundamental concepts of data analysis and statistics. It provides a practical, hands-on approach, making it accessible even to those without prior experience. The course emphasizes understanding core statistical concepts and applying them to real-world problems using practical tools.
+originally, the analysis were made in google sheets due to accessibility, but I took an approach to do it in EXCEL instead. 
 
 ## key features 
 1. **Introduction to Data Analysis:** Covers the essentials of handling and analyzing data, including basic data cleaning and preprocessing techniques.
@@ -16,6 +17,7 @@ This course is designed to introduce beginners to the fundamental concepts of da
 `Excel`
 
 ## Data Sources 
+data provided by the trainer, Mr Jacek Kulak himself. 
 
 ## Data Cleaning/Preparation 
 
